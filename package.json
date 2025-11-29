@@ -8,7 +8,12 @@
     "ejercicio1":"ts-node src/ejercicio1/ejercicio1.ts",
     "ejercicio2":"ts-node src/ejercicio2/ejercicio2.ts",
     "ejercicio3":"ts-node src/ejercicio3/ejercicio3.ts",
-    "ejercicio4":"ts-node src/ejercicio4/ejercicio4.ts"
+    "ejercicio4":"ts-node src/ejercicio4/ejercicio4.ts",
+    "ejerciciobanco":"ts-node src/ejerciciobanco/ejerciciobanco.ts",
+    "ejerciciocalificaciones":"ts-node src/ejerciciocalificaciones/ejerciciocalificaciones.ts",
+    "ejerciciovehiculo":"ts-node src/ejerciciovehiculo/ejerciciovehiculo.ts",
+    "ejerciciorestaurante":"ts-node src/ejerciciorestaurante/ejerciciorestaurante.ts",
+    "ejerciciohospital":"ts-node src/ejerciciohospital/ejerciciohospital.ts"
   },
   "keywords": [],
   "author": "",
